@@ -1,4 +1,6 @@
 {
   "name": "renyuxiong/test",
-  "require": "renyuxiong/test"
+  "require": {
+    "renyuxiong/test"
+  }
 }
