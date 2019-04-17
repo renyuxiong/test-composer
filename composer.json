@@ -1,6 +1,6 @@
 {
   "name": "renyuxiong/test",
   "require": {
-    "renyuxiong/test"
+    "renyuxiong/test": "1.0.0"
   }
 }
