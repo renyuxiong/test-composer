@@ -1,0 +1,14 @@
+{
+    "name": "renyuxiong/test",
+    "description": "this is a demo from renyuxiong",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "renyuxiong",
+            "email": "renyuxiong818@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
